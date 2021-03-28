@@ -28,4 +28,3 @@ configuration:
       cidr: 60.61.0.0/24 # Classless Inter-Domain Routing for assigned IPv4 pool of UE
       # [optional] dnn_list[*].natifname
       # natifname: eth0
-      #test
